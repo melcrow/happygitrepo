@@ -4,4 +4,6 @@ by Jenny Bryan
 . for Data Viz class
 
 
-test changeA line I wrote on my local computer  
+test change
+
+A line I wrote on my local computer  
