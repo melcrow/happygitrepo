@@ -9,5 +9,5 @@ Here is a test change.
 
 ## Demo Reports
 
-- [Demo R Markdown Report](https://melcrow.github.io/happygitdemo/DemoRMD.html)
-- [Demo Quarto Report](https://melcrow.github.io/happygitdemo/DemoQuarto.html)
+- [Demo R Markdown Report](https://melcrow.github.io/happygitrepo/DemoRMD.html)
+- [Demo Quarto Report](https://melcrow.github.io/happygitrepo/DemoQuarto.html)
